@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Daram-G/Daram-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+21/10~ DelionGroup - Data Analytics
+20/12~21/08 YWDSP Co.,Ltd - Machine Vision Algorithm R&D
 -->
+
+![123](https://user-images.githubusercontent.com/67881957/217738918-724b44a5-babc-43e8-b272-cc93d2b644c4.gif)
